@@ -1,6 +1,7 @@
 # 6.824
 Repository for MIT 6.824 Spring 2020 Labs.
-Clone from git://g.csail.mit.edu/6.824-golabs-2020
+
+Clone from [git://g.csail.mit.edu/6.824-golabs-2020](git://g.csail.mit.edu/6.824-golabs-2020)
 
 ## Status
 - [x] Lab1
